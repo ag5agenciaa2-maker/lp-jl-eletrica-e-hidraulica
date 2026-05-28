@@ -41,7 +41,7 @@
 - [x] `@type` — Definido como array `["Electrician", "Plumber"]` pelo escopo duplo do negócio.
 - [x] `name` — JL Elétrica e Hidráulica.
 - [x] `alternateName` — Otimizado com serviços principais e cidade.
-- [x] `url` — http://www.jleletricaehidraulica.ag5agencia.site/
+- [x] `url` — https://jleletricaehidraulica.ag5agencia.site/ (deploy ativo Cloudflare Pages + TLS Google CA · 28/05/2026)
 - [x] `slug` — jleletricaehidraulica
 - [x] `telephone` — +5531975718568 (formato E.164).
 - [x] `contactPoint` — WhatsApp marcado como `customer service`, idioma português, atendimento BR.
